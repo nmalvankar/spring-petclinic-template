@@ -1,8 +1,8 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: spring-boot-backend-template
-  title: Create a Spring Boot Backend application with a CI pipeline
+  name: spring-petclinic-template
+  title: Create a Spring Petclinic application with a CI pipeline
   description: Create a starter Spring Boot backend application with a CI pipeline
   tags:
     - recommended
